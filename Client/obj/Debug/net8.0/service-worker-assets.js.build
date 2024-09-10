@@ -837,15 +837,15 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-zLh1oboPQM7uonS3QY2Z3ZKI1MhUajdUe9Yh2zyb4js=",
+      "hash": "sha256-bmo97BOZcasm4T6jaTWC\/fS7+BGEhH5SFRf1io7qTNo=",
       "url": "_framework\/EspoNew.Client.wasm"
     },
     {
-      "hash": "sha256-7+H443Sfej3\/QjxnpcylWi8j8anbLeYBtv19ylp+JFo=",
+      "hash": "sha256-fqfdk2l1Mxz3VhJT4c3FcnJAA6aIgWolgvkuOws5D0E=",
       "url": "_framework\/EspoNew.Client.pdb"
     },
     {
-      "hash": "sha256-\/\/EHqBk8KKDbHcenEBiGEkJzGMfCKNx6RS7fhMgo\/fY=",
+      "hash": "sha256-QKswtiN7toXKYOWya3WEVXhpkVw0s8MHt5CaZpnmLqM=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -993,5 +993,5 @@
       "url": "_content\/Microsoft.AspNetCore.Components.WebAssembly.Authentication\/AuthenticationService.js"
     }
   ],
-  "version": "VbyTd6ET"
+  "version": "G17fERWO"
 };

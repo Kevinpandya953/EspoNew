@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "EspoNew.Client",
   "resources": {
-    "hash": "sha256-vVuXd6y9tflqcpTWKby7SvGAvjetor0inbA93iSTaQc=",
+    "hash": "sha256-dpzIsNi/vSf5bfwvcvWuQE0mFl1Z6Hu6Bp+Y4Fvn3G4=",
     "jsModuleNative": {
       "dotnet.native.8.0.8.7mv8hwsnfl.js": "sha256-juC5sA7gHTLXFEhAKgdM2/RavswpwCtDfjYGsAz2FXg="
     },
@@ -216,10 +216,10 @@
       "mscorlib.wasm": "sha256-Gz8PyW2/fwihe5ul81OwmRUrU71r+KtbyRw6xlOGD+Q=",
       "netstandard.wasm": "sha256-jMTqIQzoDS810lyhZpMO5eEC36EzntXqSVn+2qwkOMQ=",
       "System.Private.CoreLib.wasm": "sha256-NFj5WE5VLP2LptZIRJCUIc1AMk06FmxpsSILfPISwAw=",
-      "EspoNew.Client.wasm": "sha256-bmo97BOZcasm4T6jaTWC/fS7+BGEhH5SFRf1io7qTNo="
+      "EspoNew.Client.wasm": "sha256-ZFLXUPsLTHtN66+pHkPOtfoMSJvNgWXiTNJ888nQbzg="
     },
     "pdb": {
-      "EspoNew.Client.pdb": "sha256-fqfdk2l1Mxz3VhJT4c3FcnJAA6aIgWolgvkuOws5D0E="
+      "EspoNew.Client.pdb": "sha256-20FNR3bOWnMG4Q37gIKULdPLcGRI74/sQagZgSV+GY0="
     }
   },
   "cacheBootResources": true,

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EspoNew.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4bae9a61452c09e8702ed51626c8905834fdeae")]
 [assembly: System.Reflection.AssemblyProductAttribute("EspoNew.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EspoNew.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
