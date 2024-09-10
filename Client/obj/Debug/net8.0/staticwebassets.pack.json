@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\RadzenApps\\EspoNew\\Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "F:\\RadzenApps\\EspoNew\\Client\\obj\\Debug\\net8.0\\compressed\\va9sddr5ud.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "F:\\RadzenApps\\EspoNew\\Client\\obj\\Debug\\net8.0\\service-worker-assets.js",
+      "PackagePath": "staticwebassets\\service-worker-assets.js"
+    },
+    {
+      "Id": "F:\\RadzenApps\\EspoNew\\Client\\obj\\Debug\\net8.0\\service-worker\\service-worker.published.js",
+      "PackagePath": "staticwebassets\\..\\Server\\wwwroot\\service-worker.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EspoNew.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EspoNew.Client.props",
+      "PackagePath": "build\\EspoNew.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EspoNew.Client.props",
+      "PackagePath": "buildMultiTargeting\\EspoNew.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EspoNew.Client.props",
+      "PackagePath": "buildTransitive\\EspoNew.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

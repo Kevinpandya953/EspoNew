@@ -1,0 +1,135 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = EspoNew.Client
+build_property.RootNamespace = EspoNew.Client
+build_property.ProjectDir = F:\RadzenApps\EspoNew\Client\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = F:\RadzenApps\EspoNew\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[F:/RadzenApps/EspoNew/Client/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/Accountsaccounts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNhY2NvdW50cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/AddAccountsAccount.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQWNjb3VudHNBY2NvdW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/AddAccountsAccountContact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQWNjb3VudHNBY2NvdW50Q29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/AddAccountsAccountDocument.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQWNjb3VudHNBY2NvdW50RG9jdW1lbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/AddCallsCall.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ2FsbHNDYWxsLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/AddCasesCase.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ2FzZXNDYXNlLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/AddContactsContact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkQ29udGFjdHNDb250YWN0LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/AddEmailEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkRW1haWxFbWFpbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/AddMeetingsMeeting.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkTWVldGluZ3NNZWV0aW5nLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/AddOpportunitiesOpportunity.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRkT3Bwb3J0dW5pdGllc09wcG9ydHVuaXR5LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/Callscalls.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsbHNjYWxscy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/CasesCases.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FzZXNDYXNlcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/Contactscontacts.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdHNjb250YWN0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/EditAccountsAccount.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFjY291bnRzQWNjb3VudC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/EditAccountsAccountContact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFjY291bnRzQWNjb3VudENvbnRhY3QucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/EditAccountsAccountDocument.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEFjY291bnRzQWNjb3VudERvY3VtZW50LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/EditCallsCall.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdENhbGxzQ2FsbC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/EditCasesCase.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdENhc2VzQ2FzZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/EditContactsContact.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdENvbnRhY3RzQ29udGFjdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/EditEmailEmail.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdEVtYWlsRW1haWwucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/EditMeetingsMeeting.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE1lZXRpbmdzTWVldGluZy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/EditOpportunitiesOpportunity.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdE9wcG9ydHVuaXRpZXNPcHBvcnR1bml0eS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/Meetingsmeetings.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWVldGluZ3NtZWV0aW5ncy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Pages/Opportunitiesopportunities.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3Bwb3J0dW5pdGllc29wcG9ydHVuaXRpZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Um91dGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[F:/RadzenApps/EspoNew/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
